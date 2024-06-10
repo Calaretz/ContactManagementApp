@@ -1,4 +1,3 @@
-# ContactManagementApp
 # Contact Management Application
 
 ## Project Description
